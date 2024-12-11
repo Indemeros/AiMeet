@@ -1,8 +1,6 @@
 streamlit
-whisper
 torch
 transformers
 openai-whisper
 pydub
-io
 scipy
